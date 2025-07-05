@@ -1,2 +1,2 @@
 # Encryption
-AES + HMAC şifreleme ve şifre çözme işlemi yapan program.
+AES + HMAC şifreleme ve şifre çözme işlemi yapan bir program.
